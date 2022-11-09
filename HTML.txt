@@ -14,18 +14,19 @@
 <body>
 
 <div class="city">
-  <h2>London</h2>
-  <p>London is the capital of England.</p>
+  <h2>Harare</h2>
+  <p>Harare is the capital of Zimbabwe.</p>
 </div>
 
 <div class="city">
-  <h2>Paris</h2>
-  <p>Paris is the capital of France.</p>
+  <h2>Pretoria</h2>
+  <p>Pretoria is the capital of South Africa.</p>
 </div>
 
 <div class="city">
-  <h2>Tokyo</h2>
-  <p>Tokyo is the capital of Japan.</p>
+  <h2>Lusaka</h2>
+  <p>Lusaka is the capital of Zambia.</p>
+  <p>Kenth Kaunda was the 1st leader.</p>
 </div>
 
 </body>
